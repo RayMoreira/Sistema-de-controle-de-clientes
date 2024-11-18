@@ -1,0 +1,14 @@
+/Users/rsantos43/Desktop/SENAI_/Atividade/bin/Debug/net9.0/Atividade
+/Users/rsantos43/Desktop/SENAI_/Atividade/bin/Debug/net9.0/Atividade.deps.json
+/Users/rsantos43/Desktop/SENAI_/Atividade/bin/Debug/net9.0/Atividade.runtimeconfig.json
+/Users/rsantos43/Desktop/SENAI_/Atividade/bin/Debug/net9.0/Atividade.dll
+/Users/rsantos43/Desktop/SENAI_/Atividade/bin/Debug/net9.0/Atividade.pdb
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/Atividade.AssemblyInfoInputs.cache
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/Atividade.AssemblyInfo.cs
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/Atividade.csproj.CoreCompileInputs.cache
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/Atividade.dll
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/refint/Atividade.dll
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/Atividade.pdb
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/Atividade.genruntimeconfig.cache
+/Users/rsantos43/Desktop/SENAI_/Atividade/obj/Debug/net9.0/ref/Atividade.dll
